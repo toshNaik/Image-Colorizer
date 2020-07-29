@@ -11,6 +11,7 @@ Gray             |  Predicted
 ![](Gray/image1.png)  |  ![](Predicted/image1.png)
 ![](Gray/image2.png)  |  ![](Predicted/image2.png)
 ![](Gray/image3.png)  |  ![](Predicted/image3.png)
+![](Gray/image4.png)  |  ![](Predicted/image4.png)
 
 
 Better results could be obtained if trained for longer on a larger dataset
